@@ -11,8 +11,8 @@ nodes:
 # Global configuration
 config:
 
-  jvm.path: C:\Java\jdk1.8.0_152
-  tomcat.path: C:\apache-tomcat-8.5.23
+  jvm.path: "C:\\Program Files\\Java\\jdk1.8.0_201"
+  tomcat.path: C:\Java\apache-tomcat-9.0.30
 
   sampleApp:
     welcomeMessage: Hello World, welcome single app!
